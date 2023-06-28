@@ -1,0 +1,206 @@
+[
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2425",
+        "1 Judul": "Implementasi Web Proxy Pada Mikrotik Untuk Menciptakan Internet Sehat Pada SMK Al Maksum Langkat",
+        "2 Abstract": "Abstract\nPermasalahan yang banyak terjadi di lingkungan sekolah dengan adanya internet adalah tidak terkontrolnya siswa dalam menggunakan internet. Guru tidak bisa mengontrol satu per satu siswa yang akan menggunakan internet karena keterbatasan jumlah guru. Maka dari itu diperlukan sistem yang bisa memblokir situs internet yang memang tidak boleh diakses, seperti situs porno, judi, dll. Internet sehat perlu diterapkan di lingkungan sekolah karena sekolah merupakan tempat dimana siswa belajar untuk menjadi lebih baik, namun dengan adanya internet yang mampu memberikan informasi yang baik dengan cepat, internet juga mampu memberikan informasi negatif dengan sangat cepat. Mikrotik merupakan sistem operasi yang bisa digunakan untuk menciptakan internet sehat di lingkungan sekolah. Dengan perangkat yang dimiliki oleh mikrotik, perangkat ini bisa menjadi solusi untuk memblokir situs internet yang akan kita tentukan sendiri. Dengan menggunakan router mikrotik RB941-2nD dan didukung dengan access point kita bisa memblokir situs tersebut. Dengan mengatur menu web proxy pada perangkat mikrotik, situs yang akan kita blokir berhasil terblokir dengan baik, sehingga siswa tidak bisa lagi membuka situs porno dan judi di lingkungan sekolah. Hal ini menjadikan guru lebih mudah dalam mengontrol siswa jika menggunakan internet. Dengan mikrotik RB941-2nD, kita hanya perlu menyiapkan nama-nama domain yang akan diblokir saja dan hasilnya berhasil memblokir nama domain tersebut dengan baik.",
+        "3 Keywords": "internet, Mikrotik, Web Proxy"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2290",
+        "4 Judul": "Rancang Bangun Monitoring Jaringan Dengan Metode Simple Mail Transfer Protocol",
+        "5 Abstract": "Abstract\nSalah satu permasalahan jaringan yang ada ketika ada gangguan perangkat jaringan, perangkat jaringan yang terputus koneksi menemukan status perangkat yang terputus memerlukan waktu. Jadi ada rentang waktu yang dibutuhkan dalam melihat status koneksi perangkat yang bermasalah tersebut. Metode penelitian yaitu incremental model yang dilakukan adalah requirement analisis penentuan kebutuhan, specification proses spesifikasi dari analisis kebutuhan, architecture design perancangan aplikasi agar sesuai kebutuhan, code melakukan design dengan menuliskan kode program, test pengujian aplikasi yang dibuat. Aplikasi ini menerapkan fungsi tool Packet Internet Gropher (Ping) untuk untuk memeriksa aktifitas jaringan berbasis teknologi Transmission Control Protocol/Internet Protocol (TCP/IP). Aplikasi ini juga terintegrasi ke database MySQL. Kesimpulan dari penelitian ini aplikasi yang dibuat dengan Bahasa pemrograman php dapat memantau koneksi setiap perangkat jaringan dan mengirimkan log ke email admin yang menerapkan protokol Simple Mail Transfer Protocol dan memberikan kemudahkan pencarian posisi perangkat yang mengalami gangguan untuk ditindak lanjut perbaikan.",
+        "6 Keywords": "Monitoring, SMTP"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2054/2074",
+        "7 Judul": "no judul",
+        "8 Abstract": "no abstract",
+        "9 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2064",
+        "10 Judul": "Implementasi CBR-AHP Penentuan Rawat Inap Pasien Covid-19 Rumah Sakit dengan Sumberdaya Terbatas",
+        "11 Abstract": "Abstract\nCovid-19 is one of the most dangerous and number one killer viruses in the world today and cannot be handled properly. Covid-19 patients with mild symptoms do not require hospitalization unless there are concerns about the possibility of a rapid worsening and according to medical considerations. Patients who are elderly and have comorbid diseases have a greater risk of experiencing more severe symptoms and experiencing death, so they can be considered for treatment. To make it easier to determine inpatients for COVID-19 patients, an expert system with the CBR-AHP method is needed. This system can be used to conduct consultations on Covid-19 disease and provide solutions for the treatment of the type of Covid-19 disease found where the consultation results are obtained from the highest Nei&Li similarity value. Of all the variants found above, the highest Nei&Li similarity value is Omicron with a similarity of 1,000. The system for determining the inpatient status of Covid-19 patients in hospitals with the Nei&Li algorithm will recommend Covid-19 diseases found with similarity above 0.5 and similarity below 0.5 will be entered into the review table to find a solution.",
+        "12 Keywords": "CBR-AHP, Covid-19, Expert System, Nei&Li"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2287",
+        "13 Judul": "Analisis Pengaruh Sinar Matahari Terhadap Pewarna Alami pada Citra Kain Tenun",
+        "14 Abstract": "Abstract\nWoven cloth is one of the local cultural heritages that is still being preserved and is part of the typical handicrafts of the Indonesian people which can be found in various regions. In general, the colors found in woven fabrics are made using natural dyes and some are made with artificial dyes. The color motifs found on woven fabrics describe the quality of this type of cloth, but the dyes on woven fabrics will also experience discoloration quickly when dried directly in the sun. In this study, experiments were carried out on woven fabrics using natural dyes, with the drying process starting at 10.00-16.00 and taking each image sample every 1 hour. To measure image quality which is an indication that there is a decrease in color in the image of woven fabrics using natural dyes, it is done using Matlab software. The results of this study are in the form of color changes which can be seen from the calculation data in the form of RGB values, Histograms as well as MSE and PSNR values.",
+        "15 Keywords": "Kain Tenun, Pewarna alami, Citra, Matlab"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2290/1995",
+        "16 Judul": "no judul",
+        "17 Abstract": "no abstract",
+        "18 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2055/2013",
+        "19 Judul": "no judul",
+        "20 Abstract": "no abstract",
+        "21 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2056",
+        "22 Judul": "Penerapan Algoritma Simple Additive Weigthing Menentukan Lahan Pertanian untuk Budidaya Tanaman Cabai",
+        "23 Abstract": "Abstract\nChili plants are one of the most popular agricultural products. Sometimes, the price may go up several times, other times it will fall sharply. Since prices often go up several times, many farmers want to plant in large quantities. Pepper farmers also often face obstacles, one of which is the determination of land to plant chilies, because the yield of chili plants depends on the quality of the soil used. The existence of a \u201cdecision support system to identify chili plants\u201d can help farmers make decisions through good planning before doing anything on their land. The presence of a Chilli Plant Determination Decision Support System with the Simple Additive Weight Method can also facilitate the dissemination of information and knowledge through applications that can be accessed at any time. This application is made using the PHP programming language and MySQL as the database.",
+        "24 Keywords": "Chili, Decision Support System, SAW"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2056/2076",
+        "25 Judul": "no judul",
+        "26 Abstract": "no abstract",
+        "27 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2029/2014",
+        "28 Judul": "no judul",
+        "29 Abstract": "no abstract",
+        "30 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2037/2011",
+        "31 Judul": "no judul",
+        "32 Abstract": "no abstract",
+        "33 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2454/2111",
+        "34 Judul": "no judul",
+        "35 Abstract": "no abstract",
+        "36 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2005",
+        "37 Judul": "Penerapan Metode Analytical Hierarchy Process Untuk Menentukan Jasa Pengiriman Pada PT. Kharisma Yona Mulia",
+        "38 Abstract": "Abstract\nDelivery services are one of the most important things in the company\u2019s business process in the warehousing service sector. The warehouse company stores goods from the seller so that they are stored properly and sent to delivery service when there is an order for goods from the seller. Companies that run in the field of warehousing services, on of which is PT. Kharisma Yona Mulia. PT. Kharisma Yona Mulia is still having problems in determining the best shipping services to be more rational. The AHP method is a process of comparing criteria into alternatives, if the resulting value is higher, the higher the priority for delivery service to choose. The criteria used in this study are shipping costs, delivery speed, delivery security, services and facilities. There are alternatives that are used, namely JNT, JNE, TIKI and SICEPAT. By using the AHP method for determining the delivery service, the results of the order of criteria values are obtained, namely delivery security 0.434 0r 43.4%, shipping costs 0.264 or 26.4%, delivery speed 0.160 or 16%, service 0.091 or 9.1% and 0.051 or 5.1% facilities. Then the results obtained the largest value for the alternative is TIKI with a value of 0.39 or 39%.",
+        "39 Keywords": "Decision Support System, Delivery Service, Analytical Hierarchy Process"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2005/2004",
+        "40 Judul": "no judul",
+        "41 Abstract": "no abstract",
+        "42 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2454",
+        "43 Judul": "Aplikasi Absensi Berbasis Android Studi Kasus Universitas Katolik Santo Thomas dengan Metode Lock GPS",
+        "44 Abstract": "Abstract\nSistem absensi merupakan syarat mutlak kehadiran dalam berbagai kegiatan. Di Universitas Katolik Santo Thomas, absensi menjadi masukan untuk dosen dan bagian administrasi serta menjadi salah satu parameter penilaian kinerja kehadiran individu. Dan untuk absensi dosen sampai saat ini belum ada diterapkan sehingga disiplin dosen dalam kehadiran tidak dapat diketahui, sedangan untuk pengawai Universitas Khatolik Santo Thomas saat ini sudah menggunakan fingerprint namun dalam proses pelaksanaan absensi juga dinilai masih kurang efektif dikarenakan alat fingerprint hanya ada satu buah serta dapat membuat antrian sehingga pegawai yang datang tepat waktu bisa menjadi terlambat dikarenakan antrian absensi. Dengan menggunakan smartphone yang mempunyai Global Positioning System (GPS) maka para pegawai tidak perlu datang ke lokasi tempat fingerprint untuk melakukan absensi melainkan pegawai dapat melakukan absensi di di wilayah kerja masing masing dengan radius yang telah ditentukan, dan untuk mahasiswa dikarenakan jam dan kelas yang dipakai selalu berpindah pindah maka dalam aplikasi ini juga akan menggunakan fitur kamera. Pembuatan Aplikasi menggunakan android studio dan bahasa java dengan metode pengembangan waterfall mencakup kegiatan Requirement, Design, Implementation, Verification dan Maintenance. Desain sistem menggunakan pemodelan berorientasi objek yaitu Unified Modeling Language (UML).",
+        "45 Keywords": "Absensi Perkuliahan, Lock GPS, Android, Waterfall"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2054",
+        "46 Judul": "Sistem Pendukung Keputusan Pemilihan Sepeda Motor Menggunakan Metode WASPAS",
+        "47 Abstract": "Abstract\nMotorcycles are one of the most popular vehicles by many Indonesian people. Due to the large number of enthusiasts and requests from the public, many manufacturers make various types of motorcycles with different advantages ranging from storage capacity, types of designs and superior features in their products. Many factors must be considered in the selection of a motorcycle in accordance with the wishes so that making the selection of a motorcycle in accordance with the wishes becomes a difficult thing. Motorcycle attributes include: brand, model, type, price, engine capacity, transmission, braking, year of manufacture and fuel consumption. The recommended motorcycles are only for three well-known brands, namely Yamaha, Honda and Suzuki with the WASPAS method. The results of the recommendations from the selection of criteria for the Honda brand, type of scooter, automatic transmission and single disc braking with the WASPAS method are Honda Genio motorcycles with a Qi value = 0.928.",
+        "48 Keywords": "Decision Support System, Motorcycle, WASPAS"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2302/2027",
+        "49 Judul": "no judul",
+        "50 Abstract": "no abstract",
+        "51 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2425/2096",
+        "52 Judul": "no judul",
+        "53 Abstract": "no abstract",
+        "54 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2064/2075",
+        "55 Judul": "no judul",
+        "56 Abstract": "no abstract",
+        "57 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2036",
+        "58 Judul": "Penerapan Algoritma Simple Additive Weighting (SAW) dalam Pemilihan Perumahan",
+        "59 Abstract": "Abstract\nPerumahan merupakan suatu kebutuhan dasar manusia dalam melangsungkan hidup sehari \u2013 hari, yang tidak dapat dilihat sebagai sarana kebutuhan semata \u2013 mata tetapi lebih dari pada itu perumahan juga menciptakan ruang kehidupan untuk bermasyarakat. Dalam perkembangan jaman dan pertumbuhan ekonomi serta kesibukan masing \u2013 masing setiap manusia dalam denia kerja, dan begitujuga dengan pertumbuhan penduduk semakin meningkat dari setiap tahunnya. Maka dari itu masyarakat harus membeli rumah yang sudah di siapkan oleh pihak lain dan tidak memperhatikan kriteria yang dibutuhkan sehingga mengakibtakan ketidak nyamanan dalam memilih rumah tinggal yang tidak sesuai dengan kriteria yang dibutuhkan. Maka dari itu kriteria yang digunakan dalam memilih perumahan berupa kriteria uang muka, ukuran tanah, harga perumahan, KPR, dan kepadan penduduk. Maka dibuat sistem pendudkung yang dirancang menggunakan bahasa pemerograman AHP dan MYSQL sebagia olah datanya Sistem pendukung keputusan merupakan sebuah sistem yang dapat membantu seseorang dalam mengambil sebuah keputusan dan tidak untuk mengantikan peran dalam mengambil keputusan. Metode yang digunakan yaitu Simple Additive Weighting untuk mencari penjumlahan terbobot pada rating kinerja setiap alternatif dari semu atribut kemudian dilakukan perangkingan untuk menentukan nilai terbaik.",
+        "60 Keywords": "decision support system, Simple Additive Weighting, residential housing selection, PHP, MySQL"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2287/1994",
+        "61 Judul": "no judul",
+        "62 Abstract": "no abstract",
+        "63 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2057/2012",
+        "64 Judul": "no judul",
+        "65 Abstract": "no abstract",
+        "66 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2037",
+        "67 Judul": "Penerapan Metode Naive Bayes Untuk Penilaian Ujian Kenaikan Tingkat Olahraga Karate",
+        "68 Abstract": "Abstract\nKarate merupakan olahraga bela diri dengan gerakan gabungan tangan dan kaki yang digerakan secara berurutan. Dalam olahraga ini ada ujian kenaikan tingkat dimana ujian ini terdapat beberapa tingkatan. Dalam proses penilaiannya menggunakan proses perhitungan dengan formulir kertas yang konvensional, sehingga memakan waktu perhitungan yang kurang akurat. Penelitian ini dilakukan untuk membantu mengklasifikasikan penilian dan penentuan lulus tidak nya hasil dari ujian yang telah di nilai oleh panitia. Dengan menggunakan metode Naive Bayes. Metode Naive Bayes ini digunakan dalam mengklasifikasikan perhitungan nilai yang kurang akurat dalam hasil yang diperoleh. Dimana proses perhitungannya adalah probabilitas teorema bayesian dengan asumsi bahwa setiap variabel atau parameter penentuan yang bersifat bebas sehingga keberadaan setiap variabel tidak ada kaitannya dengan keberadaan atribut yang lain. Metode ini juga terbukti memiliki akurasi dan kecepatan yang tinggi saat diaplikasikan kedalam database dengan data yang besar. Hasil penelitian ini menghasilkan website yang dapat membantu penilaian ujian kenaikan tingkat sabuk karate dengan mengklasifikasikan hasil penilian ujian dimana didapatkan dengan hasil nilai P(C0|X) = 0,008288 sedangkan nilai\u00a0 P(C1|X) = 0,18414. Berdasarkan nilai tersebut dapat diambil kesimpulan bahwa P(C0|X) < P(C1|X). maka data uji tersebut diklasifikasikan kedalam kelas Rekomendasi Ya untuk penilaian ujian kenaikan tingkat sabuk karate.",
+        "69 Keywords": "Karate, Naive Bayes, Penilaian"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2355/2062",
+        "70 Judul": "no judul",
+        "71 Abstract": "no abstract",
+        "72 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2164/2026",
+        "73 Judul": "no judul",
+        "74 Abstract": "no abstract",
+        "75 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/1995",
+        "76 Judul": "Implementation of Microservices Architecture Using RESTful API For Website Online Course Esploor",
+        "77 Abstract": "Abstract\nRapid technological developments affect various aspects of life, such as education. Many online learning platforms provide various materials needed by the community. Online course applications usually consist of many interconnected services. Traditionally, applications are built with a monolithic approach that makes all services in the same codebase, so they often experience many problems as the system grows larger. The online course application will be created using a microservices architecture to facilitate maintenance and update. Microservices are intended so that each service can perform one function well. One service with another service can be connected using the Application Programming Interface (API) such as REST. The system design uses the Web Service Implementation Methodology (WSIM). This online course application uses two languages, JavaScript and PHP on the BackEnd side and MySQL as a Database Management System (DBMS) to store data and ReactJs technology to build a user interface.",
+        "78 Keywords": "Microservices, Online Course, RESTful API"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2355",
+        "79 Judul": "Penerapan Metode Weight Product (WP) Pada Perancangan Perangkat Lunak Sistem Pendukung Keputusan (Studi Kasus : Seleksi Penerimaan Calon Karyawan BPJS Kesehatan Kabupaten Batubara)",
+        "80 Abstract": "Abstract\nDalam proses seleksi calon karyawan maka calon karyawan mengikuti serangkaian tes untuk mengetahui kemampuan dan pribadi calon karyawan serta mendapatkan skor dari hasil tes. kemudian skor ditulis di\u00a0 lembar jawaban calon karyawan dan\u00a0 disimpan dalam bentuk berkas. Masalah terjadi ketika bagian SDM (Sumber daya manusia) melakukan penyeleksian calon karyawan Hal\u00a0 ini\u00a0 juga\u00a0\u00a0\u00a0 akan menyebabkan\u00a0 kejenuhan\u00a0 karena\u00a0 berkas\u00a0 yang\u00a0 dianalisis\u00a0 cukup\u00a0 banyak, Secara\u00a0 tidak\u00a0 langsung\u00a0 hal\u00a0 ini menyebabkan keputusan yang akan dibuat tidak membuahkan hasil yang maksimal. Untuk mengatasi hal diatas perlu\u00a0 suatu penerapan\u00a0 metode\u00a0 pengambilan keputusan berbasis komputer yang mengolah data calon karyawan untuk mendapatkan keputusan sesuai dengan yang diharapkan, metode yang dipilih dalam penelitian ini adalah WP (Weighted product)",
+        "81 Keywords": "SPK, WP, Seleksi, Karyawan"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2302",
+        "82 Judul": "Penerapan Metode Certainty Factor Dalam Diagnosa Penyakit Tanaman Lada Berbasis Web",
+        "83 Abstract": "Abstract\nLada disebut juga merica atau sahang yang mempunyai nama latin piper nigrum adalah sebuah tanaman yang kaya akan kandungan kimia, seperti minyak lada, minyak lemak, dan juga pati. Lada bersifat sedikit pahit, pedas, hangat, dan antipiretik. Penyakit yang terdapat pada tanaman lada terdiri dari 10 penyakit diantaranya penyakit busuk pangkal batang, penyakit kuning, jamur akar, busuk tunggul, keriting daun, karat merah, bercak daun, sarang laba-laba, jamur upas, penggerak batang.\u00a0\u00a0 Sistem pakar diagnosa penyakit tanaman lada dapat membantu para pembudidaya tanaman lada dalam mendiagnosa penyakit berdasarkan gejala yang dialami tanaman lada tersebut. Dari hasil pengujian melalui pendekatan teori confusion matrix diperoleh tingkat akurasi metode certainty factor dalam diagnosa penyakit tanaman lada yaitu 100%.",
+        "84 Keywords": "Metode Certainty Factor, Diagnosa Penyakit, Tanaman Lada, Berbasis Web"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2055",
+        "85 Judul": "Implementasi Metode Analytical Hierarcy Process untuk Menentukan Tipe Mobil Toyota",
+        "86 Abstract": "Abstract\nThe community's need for four-wheeled vehicles to help move from one place to another continues to grow rapidly. Everyone has different desires for the type of car they want to have. Different types of cars have different features. When it comes to owning a car, there are many factors to consider before buying a car and it can confuse a person about the various options available. This is the background behind the construction of a decision support system (DSS) for cars, namely the decision system to choose Toyota vehicles. The most obvious impact of the above environmental factors that can influence voters is ambiguity in car buying decisions. Based on these problems, a car purchase decision support system has been developed so that prospective car buyers can make decisions to choose a car more easily and quickly. The method used to build a decision support system is the Analytical Hierarchy Process (AHP).",
+        "87 Keywords": "Decision Support System (DSS), Seleksi Mobil, Analytical Hierarcy Process (AHP)"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2029",
+        "88 Judul": "Penerapan Metode Profile Matching untuk menentukan Starting Lineup Tim Futsal Nadera Jaya Sukabumi",
+        "89 Abstract": "Abstract\nFutsal is one of the most popular sports in Indonesia. Futsal is a sport that is played with all aspects of simplicity which refers to the sport of football. The problem in determining the starting lineup by the current futsal coach is that it is not efficient, they still use feeling and player development charts in each exercise. Therefore we need a system as a tool for selecting the starting lineup, making it easier for coaches in the lineup selection process. Profile matching method whose calculation mechanism assumes that there is an ideal level of predictor variables that must be met by the subject under study, not a minimum level that must be met. The advantage of the Profile Matching method is that one of the most appropriate methods used in the comparison process between individual competencies into the competencies of a position so that differences in competencies can be known. The final result of this research produces a system that can help the potential value of a player so that the coach has a benchmark in classifying the category of each player who will be the starting lineup in each competition.",
+        "90 Keywords": "Futsal, Starting Lineup, Profile Matching"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2036/2034",
+        "91 Judul": "no judul",
+        "92 Abstract": "no abstract",
+        "93 Keywords": "no keywords"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2164",
+        "94 Judul": "Visualisasi Data Opini Publik pada Media Sosial Twitter (Studi Kasus : Nusantara Sebagai IKN Indonesia)",
+        "95 Abstract": "Abstract\nThe capital city has an important role for various aspects of government, the capital city has a function as the center of political power and the economy of a country. In the process, sometimes the head of government of a country moves the capital of the country, either moving it to an existing city or building a new city that was built specifically to become the capital of the country. Like what Indonesia did, which planned to move the country's capital, which was previously in Jakarta, moved to East Kalimantan and built a new city to become the nation's capital with the name Nusantara. The relocation of the capital city was carried out to divide the economic center and the government center which were previously centered in Jakarta into an economic center in Jakarta and a government center in the archipelago. The announcement of the name of Indonesia's new capital city received reactions from the public, with various written opinions being shared through social media. One of the social media channels that is widely used is Twitter. With so many public responses through social media, a process is needed to find out how to respond and form of expression for the announcement of the name of the capital city of the archipelago. One of the processes that can be done is to visualize tweets containing the word \"Nusantara\" which collected 83604 tweets using data on the number of tweets, posting hours, hashtags that can find out how the public responds to the announcement of the state capital \"Nusantara\"..",
+        "96 Keywords": "Twitter, data visualization, nusantara"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/2057",
+        "97 Judul": "Penerapan Metode Profile Matching untuk Seleksi Pemain Bola Voli Tingkat Kab.Sukabumi untuk Kejuaraan Pekan Olahraga Daerah (PORDA)",
+        "98 Abstract": "Abstract\nPORDA merupakan gelaran daerah yang mempertandingkan berbagai macam\u00a0 pertandingan berbagai macam olahraga antar kota dan kabupaten dengan jangkouwan area provinsi. Dalam gelaran pertandingan olahraga nasional tersebut bola voli merupakan salah satu cabang olahraga yang di pertandingkan . bola voli merupakan permainan bola besar yang bertemakan tim sehingga nilai tim harus dimiliki untuk memenangkan permainan konpetitif ini. Permasalah yang terjadi dalam tahap seleksi\u00a0 ialah keputusan pelatih kadangkala\u00a0 tidak mempunyai nilai tolak ukur untuk memutuskan pemain yang akan lulus dalam tahap seleksi. Sehingga dalam tahap seleksi hanya dilihat dari grafik latihan sehingga kurang maksimal dalam hal penilaian pemain untuk memutuskan atlet yang akan lulus dalam tahap seleksi. Penelitian ini dilakukan untuk membantu penentuan calon atlet yang akan lulus dalam tahap seleksi pemain bola voli untuk kejuaraan Pekan olahraga daerah\u00a0 agar lebih mendapatkan hasil yang sesuai. Pengklasifikasian yang dilakukan menggunkan metode profile matching, metode Profile matching juga disebut metode gap atou jarak mekanisme perhitunganya dengan mengasumsikan bahwa tingkat variable prediktor yang ideal yang harus dipenuhi oleh subyek yang diteliti, bukan tingat minimal yang harus dipenuhi dan dilewati. Hasil akhir dari penilitian ini adalah\u00a0 menghasilakn\u00a0 system yang dapat membantu\u00a0 nilai potensi pemain dari suatu pemain sehingga pelatih memiliti niali tolak ukur dalam mengkalasifikasikan pemain.",
+        "99 Keywords": "PORDA, Bola Volly, Profile Matching"
+    },
+    {
+        "Link": "http://ejournal.ust.ac.id/index.php/JTIUST/article/view/1995/2010",
+        "100 Judul": "no judul",
+        "101 Abstract": "no abstract",
+        "102 Keywords": "no keywords"
+    }
+]
